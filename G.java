@@ -23,4 +23,8 @@ public class G {
     public float ff() {
         return 0;
     }
+
+    public long dd() {
+        return 33;
+    }
 }

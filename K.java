@@ -23,4 +23,8 @@ public class K {
     public int cc() {
         return 42;
     }
+
+    public long dd() {
+        return 100500;
+    }
 }

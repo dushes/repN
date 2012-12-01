@@ -23,4 +23,8 @@ public class F {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
 }
