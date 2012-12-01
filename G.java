@@ -1,0 +1,14 @@
+public class G {
+
+    private int c = 42;
+
+    private double i = 100.500;
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public String kk() {
+        return "Yes";
+    }
+}

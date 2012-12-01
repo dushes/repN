@@ -1,0 +1,14 @@
+public class K {
+
+    private double h = 100.500;
+
+    private long g = 4321;
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public Object pp() {
+        return this;
+    }
+}
