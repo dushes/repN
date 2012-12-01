@@ -1,4 +1,4 @@
-public class F {
+public class F extends null {
 
     private long h = 4321;
 
@@ -26,5 +26,25 @@ public class F {
 
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public void aa() {
+        System.out.println("Hello world!");
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public void bb() {
+        System.out.println(42);
+    }
+
+    public double ad() {
+        return 11.09;
     }
 }

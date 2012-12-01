@@ -1,4 +1,4 @@
-public class H {
+public class H extends null {
 
     private String e = "test";
 
@@ -12,6 +12,10 @@ public class H {
         return 500.100;
     }
 
+    public long dd() {
+        return 100500;
+    }
+
     public java.lang.Class qq() {
         return getClass();
     }
@@ -20,11 +24,23 @@ public class H {
         return;
     }
 
-    public long dd() {
-        return 100500;
-    }
-
     public byte oo() {
         return 3;
+    }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public void ab() {
+        return;
+    }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
+
+    public String kk() {
+        return "Hello world";
     }
 }

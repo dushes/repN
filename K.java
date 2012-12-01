@@ -1,4 +1,4 @@
-public class K {
+public class K extends null {
 
     private double h = 100.500;
 
@@ -12,12 +12,12 @@ public class K {
         return this;
     }
 
-    public double ee() {
-        return 100.500;
+    public String kk() {
+        return "Hello world";
     }
 
-    public String kk() {
-        return "No";
+    public double ee() {
+        return 100.500;
     }
 
     public int cc() {
@@ -26,5 +26,21 @@ public class K {
 
     public long dd() {
         return 100500;
+    }
+
+    public double ad() {
+        return 11;
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public void aa() {
+        return;
+    }
+
+    public void ab() {
+        return;
     }
 }
