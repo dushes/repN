@@ -11,8 +11,4 @@ public class F {
     public void ab() {
         return;
     }
-
-    public int ae() {
-        return java.lang.Math.abs(-6);
-    }
 }

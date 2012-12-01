@@ -11,8 +11,4 @@ public class K {
     public Object pp() {
         return this;
     }
-
-    public double ee() {
-        return 100.500;
-    }
 }
