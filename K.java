@@ -12,12 +12,13 @@ public class K extends null {
         return this;
     }
 
-    public String kk() {
-        return "Hello world";
-    }
-
     public double ee() {
         return 100.500;
+    }
+
+
+    public String kk() {
+        return "No";
     }
 
     public int cc() {
@@ -42,5 +43,6 @@ public class K extends null {
 
     public void ab() {
         return;
-    }
+	}
+
 }

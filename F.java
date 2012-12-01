@@ -40,11 +40,11 @@ public class F extends null {
         return new java.util.Random();
     }
 
-    public void bb() {
-        System.out.println(42);
-    }
-
     public double ad() {
         return 11.09;
+	}
+	
+    public void bb() {
+        System.out.println(getClass().getName());
     }
 }

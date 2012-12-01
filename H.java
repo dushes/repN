@@ -24,9 +24,6 @@ public class H extends null {
         return;
     }
 
-    public byte oo() {
-        return 3;
-    }
 
     public String nn() {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
@@ -42,5 +39,13 @@ public class H extends null {
 
     public String kk() {
         return "Hello world";
+	}
+	
+    public byte oo() {
+        return 3;
+    }
+
+    public int cc() {
+        return 39;
     }
 }
