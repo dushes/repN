@@ -26,6 +26,9 @@ public class G extends null {
 
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
+		
+    public long dd() {
+        return 33;
     }
 
     public void bb() {
@@ -34,10 +37,6 @@ public class G extends null {
 
     public double ad() {
         return 11;
-    }
-
-    public Object pp() {
-        return this;
     }
 
     public void aa() {
@@ -54,5 +53,24 @@ public class G extends null {
 
     public int hh() {
         return new java.util.Random().nextInt();
+    }
+    public long ac() {
+        return 222;
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
+
+    public Object pp() {
+        return this;
+	}
+	
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
     }
 }

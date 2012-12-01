@@ -12,6 +12,10 @@ public class H extends null {
         return 500.100;
     }
 
+    public long dd() {
+        return 100500;
+    }
+
     public java.lang.Class qq() {
         return getClass();
     }
@@ -20,20 +24,12 @@ public class H extends null {
         return;
     }
 
-    public long dd() {
-        return 100500;
-    }
-
     public int[] ii() {
         return new int[]{4, 3, 2, 1};
     }
 
     public java.util.Random mm() {
         return new java.util.Random();
-    }
-
-    public void ab() {
-        System.out.println("\n");
     }
 
     public Object gg() {
@@ -46,5 +42,28 @@ public class H extends null {
 
     public java.util.List<String> jj() {
         return new java.util.LinkedList<String>();
+    }
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public void ab() {
+        return;
+    }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
+
+    public String kk() {
+        return "Hello world";
+	}
+	
+    public byte oo() {
+        return 3;
+    }
+
+    public int cc() {
+        return 39;
     }
 }

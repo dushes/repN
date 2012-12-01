@@ -50,5 +50,20 @@ public class F extends null {
 
     public float ff() {
         return 3.14;
+		}
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
+
+    public void aa() {
+        System.out.println("Hello world!");
+    }
+
+    public double ad() {
+        return 11.09;
+	}
+	
+    public void bb() {
+        System.out.println(getClass().getName());
     }
 }

@@ -43,4 +43,16 @@ public class K extends null {
     public double ad() {
         return 9.11;
     }
+
+    public int cc() {
+        return 42;
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public void aa() {
+        return;
+    }
 }
