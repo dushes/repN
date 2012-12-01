@@ -27,4 +27,8 @@ public class G {
     public long dd() {
         return 33;
     }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
 }

@@ -27,4 +27,8 @@ public class F {
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
     }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
 }

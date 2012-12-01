@@ -27,4 +27,8 @@ public class H {
     public byte oo() {
         return 3;
     }
+
+    public int cc() {
+        return 39;
+    }
 }

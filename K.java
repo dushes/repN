@@ -27,4 +27,8 @@ public class K {
     public long dd() {
         return 100500;
     }
+
+    public void aa() {
+        System.out.println("Hello world!");
+    }
 }
