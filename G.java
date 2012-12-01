@@ -15,4 +15,8 @@ public class G {
     public Object gg() {
         return new java.util.Random();
     }
+
+    public double ee() {
+        return 500.100;
+    }
 }
