@@ -15,4 +15,8 @@ public class H {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public void aa() {
+        return;
+    }
 }

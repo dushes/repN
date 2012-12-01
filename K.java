@@ -15,4 +15,8 @@ public class K {
     public double ee() {
         return 100.500;
     }
+
+    public String kk() {
+        return "No";
+    }
 }
