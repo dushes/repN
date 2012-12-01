@@ -11,4 +11,8 @@ public class H {
     public double ee() {
         return 500.100;
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }
