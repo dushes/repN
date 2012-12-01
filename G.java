@@ -19,4 +19,8 @@ public class G {
     public double ee() {
         return 500.100;
     }
+
+    public float ff() {
+        return 0;
+    }
 }
