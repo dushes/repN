@@ -11,4 +11,8 @@ public class G {
     public String kk() {
         return "Yes";
     }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
 }
