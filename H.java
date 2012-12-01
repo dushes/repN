@@ -23,4 +23,8 @@ public class H {
     public long dd() {
         return 100500;
     }
+
+    public byte oo() {
+        return 3;
+    }
 }
