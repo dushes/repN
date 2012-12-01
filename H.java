@@ -19,4 +19,8 @@ public class H {
     public void aa() {
         return;
     }
+
+    public long dd() {
+        return 100500;
+    }
 }

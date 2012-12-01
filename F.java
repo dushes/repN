@@ -19,4 +19,8 @@ public class F {
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }
